@@ -1,7 +1,7 @@
 # punctuation-restoration
 Здравствуйте! Представляем вам уникальное приложение, способное вернуть знаки препинания в текстах и распознавать текст с изображения.
 
-С его помощью вы сможете:
+**С его помощью вы сможете:**
 
 Улучшить понимание текста: Восстановление знаков препинания делает текст более понятным и легкочитаемым, помогая вам лучше улавливать смысл и контекст.
 Повысить точность коммуникации: Корректная пунктуация поможет избежать недоразумений и смешения сообщений, обеспечивая более ясное и грамматически правильное выражение мыслей.
@@ -14,15 +14,15 @@
 
 
 
-Настройка окружения и запуск:
+**Настройка окружения и запуск:**
 
-pip install -r requirements. txt - установка зависимостей
+pip install -r requirements. txt - **установка зависимостей**
 
-\punctuation restoration\venv\Scripts>activate.bat - активация виртуального окружения
+\punctuation restoration\venv\Scripts>activate.bat - **активация виртуального окружения**
 
-\punctuation restoration>python playing_with_model.py - запуск программы
+\punctuation restoration>python playing_with_model.py - **запуск программы**
 
-Ccылка на датасет: https://drive.google.com/file/d/1XRke3g2LEjuYngeRvl4hke12llHm4Mce/view
+**Ccылка на датасет**: https://drive.google.com/file/d/1XRke3g2LEjuYngeRvl4hke12llHm4Mce/view
 
 
 
